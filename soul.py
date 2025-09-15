@@ -3,8 +3,8 @@ import subprocess
 import time
 
 BASE_URL = 'http://72.60.67.207:3001'
-SOUL_PATH = '/MODXARMANHR/'
-DONE_PATH = '/MODXARMANHR/done'
+SOUL_PATH = '/ddferggcc/'
+DONE_PATH = '/ddferggcc/done'
 
 
 active_tasks = {}
